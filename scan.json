@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "clindseywsdemo/Androgoat",
+      "branchName": "main",
+      "uploadScannerLogs": true
+    }
+  ]
+}
