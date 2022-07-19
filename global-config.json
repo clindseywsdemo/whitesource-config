@@ -1,3 +1,10 @@
 {
-  "repoConfigMode": "createOnboardingPR"
+  "repoConfigMode": "createOnboardingPR",
+  "repositories": [
+    {
+      "fullName": "orgName1/repoName1",
+      "branchName": "main",
+      "uploadScannerLogs": true
+    }
+  ]
 }
