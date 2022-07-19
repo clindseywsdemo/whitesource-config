@@ -2,7 +2,7 @@
   "repoConfigMode": "createOnboardingPR",
   "repositories": [
     {
-      "fullName": "orgName1/repoName1",
+      "fullName": "clindseywsdemo/scanlogs",
       "branchName": "main",
       "uploadScannerLogs": true
     }
